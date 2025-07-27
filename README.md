@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I am Mohit Dhenge モヒット</h1>
 
 <h3 align="left">
-  Aspiring backend developer with hands-on experience in Java, Spring Boot, REST APIs, Git, Github and MySQL.<br>
-  I've built and deployed real-world projects.<br>
-  Looking to grow in a team where I can build useful, scalable software.
+  Aspiring backend developer with hands-on experience in Java, Spring Boot, REST APIs, Git, Github and MySQL. I've built and deployed real-world projects.Looking to grow in a team where I can build useful, scalable software.
 </h3>
 
 <!-- Snake animation (note: use GIF version if SVG does not animate) -->
