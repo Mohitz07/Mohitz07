@@ -6,7 +6,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Mohitz07/Mohitz07/output/snake.svg" alt="Snake animation" />
 
 ###
 
