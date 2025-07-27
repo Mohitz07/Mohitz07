@@ -6,8 +6,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Mohitz07/Mohitz07/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -38,12 +36,12 @@
 
 ###
 
-<img align="left" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJpMW5qOGM0ank5ODgwOGF3eGN3aGF2aXZ5NW11bTNremhhN3IxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mXz3v0UdjrNTO/giphy.gif"  />
-
-###
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohitz07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img align="left" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJpMW5qOGM0ank5ODgwOGF3eGN3aGF2aXZ5NW11bTNremhhN3IxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mXz3v0UdjrNTO/giphy.gif"  />
 
 ###
