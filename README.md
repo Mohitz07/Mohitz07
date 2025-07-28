@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="100" alt="linkedin logo"/>
   </a>
   <img width="20"/>
-  <a href="https://www.geeksforgeeks.org/user/mohit_dhenge/ target="_blank"/>
+  <a href="https://www.geeksforgeeks.org/user/mohit_dhenge/"/>
   <img src="https://img.shields.io/static/v1?message=Geeks%20For%20Geeks&logo=hackerrank&label=&color=&logoColor=&labelColor=&style=for-the-badge" height="100" alt="hackerrank logo"/>
   <img width="20"/>
   <a href="https://www.instagram.com/_fitwithmohit" target="_blank">
