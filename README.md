@@ -8,9 +8,6 @@
 <table align="center" style="border: none;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohitz07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-    </td>
-    <td>
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJpMW5qOGM0ank5ODgwOGF3eGN3aGF2aXZ5NW11bTNremhhN3IxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mXz3v0UdjrNTO/giphy.gif" height="150" style="margin-left: 20px;" />
     </td>
   </tr>
